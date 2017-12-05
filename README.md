@@ -14,7 +14,7 @@ Import and register Vue plugin:
 
 ```js
 import Vue from 'vue'
-import VueNoty from 'vuejs-noty'
+import VueNoty from 'vuejs-v1-noty'
 
 Vue.use(VueNoty)
 ```
