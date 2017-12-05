@@ -1,6 +1,6 @@
 {
   "name": "vuejs-v1-noty",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Noty plugin for Vue.js 1",
   "main": "./dist/vuejs-noty.js",
   "scripts": {
