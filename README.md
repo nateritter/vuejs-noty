@@ -1,5 +1,5 @@
-# vuejs-noty
-A Vue JS wrapper around [Noty](http://ned.im/noty/). Developped for Vue 2.
+# vuejs-v1-noty
+A Vue JS wrapper around [Noty](http://ned.im/noty/). Originally developed for Vue 2 by @renoguyon. Refactored for Vue 1 by @nateritter.
 
 ## Getting Started
 
