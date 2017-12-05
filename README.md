@@ -1,5 +1,5 @@
 # vuejs-v1-noty
-A Vue JS wrapper around [Noty](http://ned.im/noty/). Originally developed for Vue 2 by @renoguyon. Refactored for Vue 1 by @nateritter.
+A Vue JS wrapper around [Noty](http://ned.im/noty/). Originally developed for Vue 2 by @renoguyon. NPM packages changed by @nateritter to support Vue 1.
 
 ## Getting Started
 
@@ -7,7 +7,7 @@ A Vue JS wrapper around [Noty](http://ned.im/noty/). Originally developed for Vu
 Install using npm:
 
 ```bash
-$ npm install vuejs-noty
+$ npm install vuejs-v1-noty
 ```
 
 Import and register Vue plugin:
